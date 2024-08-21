@@ -1,0 +1,10 @@
+.recipePhotoBlock {
+  display: flex;
+  justify-content: space-evenly;
+  padding:10px;
+}
+
+.App {
+  text-align: center;
+  padding: 10px;
+}
