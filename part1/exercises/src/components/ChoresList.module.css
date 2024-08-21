@@ -1,7 +1,12 @@
 .choresText {
-   color: black;
+   color: orangered;
+   font-size: 16pt;
+   
+   
 }
 
 .choresHeading {
-   color: black;
+   color: orange;
+   font-size: 20pt;
+   
 }
