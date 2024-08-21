@@ -1,6 +1,7 @@
 .choresText {
    color: orangered;
    font-size: 16pt;
+   text-align: left;
    
    
 }
@@ -8,5 +9,6 @@
 .choresHeading {
    color: orange;
    font-size: 20pt;
+   text-align: left;
    
 }
