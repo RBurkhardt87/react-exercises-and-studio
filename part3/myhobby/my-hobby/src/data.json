@@ -1,0 +1,46 @@
+{ "projects": [
+{
+
+    "name": "Miles Catcher",
+    "element" : "Air",
+    "sign": "Aquarius",
+    "stringColor": "Yellow",
+    "stone": "Citrine",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTGCEQ8s6meQ6ZChMw_hQ-Ne4jpmSV11oMExQ6_w4DFW1_Ea850HJ_EFxH4SFAeEQqVPNr9E3hQDV1Lvd3ALtBjeh8N6qwmNyGil8e7r0g&usqp=CAc"
+
+},
+{
+    "name": "My Catcher",
+    "element" : "Air",
+    "sign": "Gemini",
+    "stringColor": "Yellow",
+    "stone": "Citrine",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQT1SScy6JAbP6p0W7_3mOWEuLEc0E_FnsmrUjc6B5NqTjA7bMUpCLCUTbN7wGvCC1DszQL0khUrv9sqMtwQGL8DgFQKvLUm2VQhVKt2ec0ykape3Gve15T5g&usqp=CAc"
+},
+{
+    "name": "Darryns Catcher",
+    "element" : "Earth",
+    "sign": "Virgo",
+    "stringColor": "Green",
+    "stone": "Adventurine",
+    "imageUrl": "https://midnight-catchers.com/cdn/shop/products/photo_2022-06-03_11-14-01_2048x.jpg?v=1654251719"
+},
+{
+    "name": "Tree of Life Catcher",
+    "element" : "Soul",
+    "sign": "Soul",
+    "stringColor": "White",
+    "stone": "Quartz Crystal",
+    "imageUrl": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSP2X8f5VrTu7n0tD0arrF_0uFAXI7341DMra3O8Vxw0mw-2mC53nSIjUR42P-f6mafrQ4W4BWHyw8XCsLop1LKNBxjKh1O8640tFcUkzU&usqp=CAc"
+},
+{
+    "name": "Moon Catcher",
+    "element" : "Moon",
+    "sign": "Moon",
+    "stringColor": "Golden",
+    "stone": "Red Jasper",
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTx4hDVEwNmimDoEvwsXClvdxz1WBV3EZnSARgVAKtM82XXuShOHBX0vp7WGch24ob6036yHMtYOUeNGnTBqiNbTUmXTWVQUo4ZOF6G40A&usqp=CAc"
+}
+]
+}
+
