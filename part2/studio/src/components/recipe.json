@@ -13,6 +13,21 @@
        "heavy cream",
        "milk"
      ]
+   },
+   {
+    "name": "One Pot Mediterranean Chicken and Rice",
+    "author": "Nicole Beaulieu",
+    "description":"Save time (and dishes) with this one pot recipe. This fast and easy dish will be sure to please the whole family. It uses fresh Parsley and lemon to lighten and brighten your dinner table.",
+    "website": "https://messinthekitchen.com/one-pot-mediterranean-chicken-and-rice/",
+    "recipeImage": "https://messinthekitchen.com/wp-content/uploads/2021/05/one-pot-mediterranean-chicken-and-rice-1.jpg",
+    "authorImage": "https://messinthekitchen.com/wp-content/uploads/2021/03/ap-pfp-360x361.jpg",
+    "ingredients": [
+      "Chicken Thighs",
+      "Long-grain Rice",
+      "Chicken Broth",
+      "Lemon Juice",
+      "Yellow Onion"
+    ]
    }
  ]
  
